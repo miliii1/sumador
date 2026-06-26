@@ -1,5 +1,9 @@
 # sumador
 Por qué te postulás a Soporte Técnico en CAT:
+Me postulé porque buscan algo que yo puedo dar: actitud y predisposición, más que años de experiencia. Soy estudiante de Informática Aplicada en UTN INSPT, 
+y aunque no tengo experiencia formal en atención telefónica, tengo experiencia real tratando con personas en situaciones de presión en mi trabajo actual, 
+donde aprendí a escuchar, mantener la calma y resolver problemas con buena comunicación. Me interesa especialmente que sea parte tecnológico y comercial a la vez, 
+y la posibilidad real de crecer dentro de la empresa
 
 Me postulo porque combina algo que tengo, base técnica en sistemas, con algo que quiero desarrollar, atención y 
 resolución de problemas a usuarios. Soy estudiante de Informática Aplicada en UTN INSPT, con conocimientos en Windows, 
